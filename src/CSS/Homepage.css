@@ -1,0 +1,36 @@
+.top-bar{
+    display: flex;
+      background-color: red;
+      height: 100px;
+      color: gold;
+}
+.header {
+    margin:auto;
+}
+.Featured {
+    margin: auto;
+    position:absolute; 
+    left: 45%; 
+    bottom:0;
+    right: 50%;
+    width: 10%; 
+}
+.FlexBox {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 100%;
+    margin-bottom: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer {
+
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+
