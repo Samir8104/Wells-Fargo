@@ -5,6 +5,18 @@
     min-height: 100%;
     position: fixed;
     background-size: cover;
-    background-position: center;
-    
+    background-position: center;    
+}
+
+.parent-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 50%;
+}
+
+.Red{
+    color: red;
+}
+.Yellow{
+    color: yellow;
 }
