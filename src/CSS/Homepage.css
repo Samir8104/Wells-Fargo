@@ -1,13 +1,18 @@
-.top-bar{
-    display: flex;
-      background-color: red;
-      height: 100px;
-      color: gold;
+.home-body {
+  background-image: url('../static/TestImg.jpg');
+  background-size: cover;
+  /* background-color: blue; */
+  /* height:100%; */
+  /* color: red; */
 }
-.header {
-    margin:auto;
+
+.behind-button {
+  position:absolute;
+  z-index: -5000;
 }
-.Featured {
+
+
+/* .Featured {
     margin: auto;
     position:absolute; 
     left: 45%; 
@@ -61,4 +66,4 @@
   .green-column {
     background-color: green;
     height: 100px;
-  }
+  } */

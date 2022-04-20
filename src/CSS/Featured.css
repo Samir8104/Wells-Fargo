@@ -11,12 +11,19 @@
 .parent-div {
     display: flex;
     justify-content: center;
-    margin-top: 50%;
+     /* margin-top: 50%; */
+    flex-wrap: wrap;
+    margin-bottom: 20px;
 }
 
-.Red{
-    color: red;
+.top-bar{
+    display: flex;
+      background-color: red;
+      height: 100px;
+      color: gold;
+      width: 100%;
+      margin-bottom: 20px;
 }
-.Yellow{
-    color: yellow;
+.header {
+    margin:auto;
 }
