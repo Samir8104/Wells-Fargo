@@ -7,8 +7,10 @@
 }
 
 .behind-button {
-  position:absolute;
-  z-index: -5000;
+  background-color: transparent;
+  margin-left: 200px;
+  margin-bottom: 50px;
+  border: none;
 }
 
 
